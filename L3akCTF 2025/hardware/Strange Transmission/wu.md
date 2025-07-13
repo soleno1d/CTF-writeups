@@ -7,10 +7,11 @@ Nous allons télécharger le fichier strange-transmission.wav</br>
 <img src="images/img6.png"></img></br>
 Remarque :</br>
 Nous avons un fichier .wav (Waveform Audio File Format) avec une taille de 27.088 Ko</br>
+<img src="images/img8.png"></img></br>
+
 Sources :</br>
 - https://en.wikipedia.org/wiki/WAV</br>
 - https://en.wikipedia.org/wiki/Kilobyte</br>
-<img src="images/img8.png"></img></br>
 
 Nous allons effectuer un clic droit sur le fichier -> propriétés -> détails</br>
 Voici le résultat :</br>
@@ -19,4 +20,5 @@ Voici le résultat :</br>
 - Chaînes (mono)</br>
 - Taux d'échantillonnage audio (44.100 Hz)</br>
 - Taille de l'échantillon audio (16 bits)</br>
+
 Sources :</br>
