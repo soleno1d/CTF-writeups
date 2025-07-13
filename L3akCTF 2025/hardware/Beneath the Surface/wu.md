@@ -5,12 +5,12 @@
 
 We will download the file "beneath_the_surface.wav" (Waveform Audio File Format)</br>
 <img src="images/img2.png"></img></br>
-Notice :</br>
+Source :</br>
 - https://en.wikipedia.org/wiki/WAV</br>
 
 With a size of 6.0 MB</br>
 <img src="images/img3.png"></img></br>
-Notice :</br>
+Source :</br>
 - https://en.wikipedia.org/wiki/Megabyte
 
 We will install a metadata extraction tool called "exiftool"</br>
@@ -26,7 +26,7 @@ important information :</br>
 - Comment (WEFAX576 freq=14011.900</br>
 - Duration 00:06:35</br>
 
-Notice :</br>
+Source :</br>
 - https://en.wikipedia.org/wiki/Monaural_sound</br>
 - https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate</br>
 - https://en.wikipedia.org/wiki/Data-rate_units</br>
@@ -59,7 +59,7 @@ The waterfall reacts correctly.</br>
 <img src="images/img15.png"></img></br>
 <img src="images/img16.png"></img></br>
 <img src="images/img17.png"></img></br>
-Notice :</br>
+Source :</br>
 https://en.wikipedia.org/wiki/Waterfall_plot</br>
 
 Here is the final result with the flag : L3AK{R4diOF4X_1S_G00d_4_ImAG3_Tr4nsM1sSiON}</br>
