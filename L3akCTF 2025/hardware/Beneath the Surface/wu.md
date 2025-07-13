@@ -3,22 +3,22 @@
 
 <h2>Greetings : Suvoni</h2></br>
 
-Nous allons télécharger le ficher "beneath_the_surface.wav" (Waveform Audio File Format)</br>
+We will download the file "beneath_the_surface.wav" (Waveform Audio File Format)</br>
 <img src="images/img2.png"></img></br>
 Notice :</br>
 - https://en.wikipedia.org/wiki/WAV</br>
 
-Avec une taille de 6.0 Mio</br>
+With a size of 6.0 MB</br>
 <img src="images/img3.png"></img></br>
 Notice :</br>
 - https://en.wikipedia.org/wiki/Megabyte
 
-Nous allons installer un outil d'extraction de métadonnées qui s'appelle "exiftool"</br>
+We will install a metadata extraction tool called "exiftool"</br>
 <img src="images/img5.png"></img></br>
 
-Voici le résultat :</br>
+Here is the result :</br>
 <img src="images/img4.png"></img></br>
-Informations importantes :</br>
+important information :</br>
 - Channels (mono)</br>
 - Sample rate (8000 Hz)</br>
 - Average Bytes per sec (16 000)</br>
@@ -33,34 +33,34 @@ Notice :</br>
 - https://sourceforge.net/projects/fldigi/files/fldigi/</br>
 - https://en.wikipedia.org/wiki/Radiofax</br>
 
-Nous allons installer "fldigi" qui est destiné pour les radioamateurs.</br>
+We will install "fldigi" which is intended for radio amateurs.</br>
 <img src="images/img6.png"></img></br>
 
-Nous réglons la fréquence de 14011.900 Hz.</br>
+We set the frequency of 14011.900 Hz.</br>
 <img src="images/img10.png"></img></br>
 
-Nous allons mettre à l'état "NONE".</br>
+We will put in the state "NONE".</br>
 <img src="images/img11.png"></img></br>
 
-Nous allons aussi mettre le mode "WEFAX576", dans notre logiciel, il s'appelle "WEFAX-IOC576".</br>
+We will also put the mode "WEFAX576", in our software, it is called "WEFAX-IOC576".</br>
 Mode Op -> WEFAX -> WEFAX-IOC576</br>
 <img src="images/img12.png"></img></br>
 
-Nous allons cocher la case "Sortie" et choisir notre fichier.</br>
+We will check the "Output" box and choose our file.</br>
 <img src="images/img13.png"></img></br>
 
-Facultatif : Activer ou non le mode "Jouer en bloucle continue"</br>
+Optional: Enable or disable "Play in continuous loop" mode</br>
 <img src="images/img14.png"></img></br>
 
-Nous pouvons constater que le logiciel est en fonctionnement</br>
+We can see that the software is running.</br>
 <img src="images/img20.png"></img></br>
 
-Le waterfall réagit correctement</br>
+The waterfall reacts correctly.</br>
 <img src="images/img15.png"></img></br>
 <img src="images/img16.png"></img></br>
 <img src="images/img17.png"></img></br>
 Notice :</br>
 https://en.wikipedia.org/wiki/Waterfall_plot</br>
 
-Voici le résultat final avec le flag : L3AK{R4diOF4X_1S_G00d_4_ImAG3_Tr4nsM1sSiON}</br>
+Here is the final result with the flag : L3AK{R4diOF4X_1S_G00d_4_ImAG3_Tr4nsM1sSiON}</br>
 <img src="images/img21.png"></img></br>
