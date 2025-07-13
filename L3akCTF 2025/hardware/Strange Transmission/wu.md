@@ -1,3 +1,3 @@
 # Strange Transmission
-<img src="img1.png"></img>
+<img src="images/img1.png"></img>
 ---
