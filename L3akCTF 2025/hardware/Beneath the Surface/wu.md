@@ -59,6 +59,8 @@ Le waterfall réagit correctement</br>
 <img src="images/img15.png"></img></br>
 <img src="images/img16.png"></img></br>
 <img src="images/img17.png"></img></br>
+Notice :</br>
+https://en.wikipedia.org/wiki/Waterfall_plot</br>
 
 Voici le résultat final avec le flag : L3AK{R4diOF4X_1S_G00d_4_ImAG3_Tr4nsM1sSiON}</br>
 <img src="images/img21.png"></img></br>
